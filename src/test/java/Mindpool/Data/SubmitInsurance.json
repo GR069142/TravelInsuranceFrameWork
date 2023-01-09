@@ -1,0 +1,33 @@
+[
+{
+  "title" : "Miss",
+  "firstName": "Girija",
+  "lastName": "Rajendran",
+  "email": "girija@gmail.com",
+  "phoneNumber": "6734567",
+  "country": "India",
+  "resident": "Yes",
+  "coverType": "Single Trip",
+  "coverageOption": "Individual",
+  "travellerType": "Adult",
+  "travellerNumber": "1",
+  "depmonth": "Feb",
+  "depmonthNumber": "2",
+  "depdate": "3",
+  "returnmonth": "Feb",
+  "returnmonthNumber": "2",
+  "returndate":"15",
+  "coverSelect": "Elite",
+  "dobYear": "1993",
+  "dobMonth": "Jan",
+  "dobDate": "17",
+  "passportNo": "ABC1234",
+  "passportPath": "C:\\Users\\R Girija\\Documents\\Girija\\FileUpload.exe",
+  "creditCardNumber": "4434260000000008",
+  "expiryMonth": "01",
+  "expiryYear": "2039",
+  "cvvNumber": "123"
+    
+}
+
+]
